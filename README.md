@@ -1,2 +1,2 @@
 # week2
-BootcampHomewor2
+BootcampHomework2
